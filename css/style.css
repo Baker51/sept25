@@ -1,0 +1,104 @@
+@charset "UTF-8";
+
+
+/*body stuff below*/
+
+
+body {
+
+	color: #ffffff;	
+	font-family: 'Roboto Flex', sans-serif;
+}
+
+
+/*fluid containers below*/
+
+.topheaderindex {
+    background-color: #646464;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../images/Colorado1.jpg);
+}
+.introindex {
+    background-color: #FC082D;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.teachindex {
+    background-color: #FFFFFF;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.healindex {
+    background-color: #FF0004;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.musicindex {
+    background-color: #000000;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: #F4F1F1;
+}
+.gofundmeall {
+    background-color: #040404;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.paypalall {
+    background-color: #646464;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-size: cover;
+}
+
+
+
+/*text issues below*/
+
+
+h1 {
+    color: #07ECDC;
+    font-size: 48px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+}
+.textcolormain {
+    color: #07ECDC;
+}
+.introtexttop {
+    color: #040404;
+}
+p {
+    color: #F7F3F3;
+}
+.texttophead {
+    font-size: 28px;
+    font-weight: 400;
+    color: #0D0C0C;
+    padding-bottom: 59px;
+}
+h2 {
+    font-size: 53px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    color: #F4060A;
+}
+.textoption1 {
+    font-weight: 300;
+    font-size: 29px;
+}
+.welcome {
+    margin-top: 48px;
+    margin-bottom: 17px;
+}
+
+
+.testimonial-image {
+    width: 100%;
+    margin: 20px;
+  
+  
+  }
